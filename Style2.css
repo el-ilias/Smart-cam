@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Tajawal', sans-serif;
-    background-color: #f9fafc;
+    background-color: red;
     color: #1e2f3d;
     line-height: 1.6;
     font-size: 16px;
@@ -279,7 +279,7 @@ nav a:hover {
     font-weight: 900;
     line-height: 1;
     margin-bottom: 20px;
-   position: fixed;
+   
 }
 
 .hero-right h1 span {
