@@ -112,7 +112,7 @@ nav a:hover {
     cursor: pointer;
     text-align: center;
     border: 2px solid transparent;
-    position: relative;
+    position: fixed;
 
 }
 
